@@ -6,3 +6,4 @@ README.md linguist-documentation
 
 # Forza GitHub a rilevare Python come linguaggio principale
 *.py linguist-detectable=true
+frasi.json linguist-vendored

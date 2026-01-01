@@ -1,4 +1,8 @@
+# Considera il README come documentazione (lo esclude dalle statistiche)
 README.md linguist-documentation
+
+# Ignora i file immagine
 *.png binary
-# Forza GitHub a ignorare TeX e HTML nelle statistiche
-*.md linguist-detectable=false
+
+# Forza GitHub a rilevare Python come linguaggio principale
+*.py linguist-detectable=true

@@ -1,8 +1,4 @@
-# Considera il README come documentazione
-README.md linguist-documentation
-
-# Segna il database come file di supporto (nasconde il testo dalle statistiche)
 frasi.json linguist-vendored
-
-# Forza il rilevamento di Python
+README.md linguist-documentation
 *.py linguist-detectable=true
+*.png binary

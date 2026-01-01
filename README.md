@@ -1,5 +1,11 @@
 # 📦 Affari Tuoi - Edizione Kids
 
+## 📸 Screenshots
+<p align="center">
+  <img src="screen1.png" width="400" title="Schermata Iniziale">
+  <img src="screen2.png" width="400" title="Chiamata del Dottore">
+</p>
+
 Un'entusiasmante versione digitale del famoso gioco televisivo "Affari Tuoi", sviluppata in Python con la libreria **PyQt5**. Pensata per i bambini, questa versione include la logica del "Dottore", premi personalizzati e una grafica colorata.
 
 ## 🚀 Funzionalità

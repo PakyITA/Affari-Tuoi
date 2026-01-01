@@ -1,0 +1,10 @@
+# Cartelle di compilazione (da non caricare)
+build/
+dist/
+*.spec
+
+# File di sistema
+.DS_Store
+Icon?
+__pycache__/
+*.pyc

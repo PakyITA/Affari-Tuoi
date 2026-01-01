@@ -1,9 +1,8 @@
-# Considera il README come documentazione (lo esclude dalle statistiche)
+# Considera il README come documentazione
 README.md linguist-documentation
 
-# Ignora i file immagine
-*.png binary
-
-# Forza GitHub a rilevare Python come linguaggio principale
-*.py linguist-detectable=true
+# Segna il database come file di supporto (nasconde il testo dalle statistiche)
 frasi.json linguist-vendored
+
+# Forza il rilevamento di Python
+*.py linguist-detectable=true

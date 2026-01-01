@@ -1,10 +1,6 @@
-# Cartelle di compilazione (da non caricare)
-build/
 dist/
+build/
 *.spec
-
-# File di sistema
 .DS_Store
 Icon?
 __pycache__/
-*.pyc

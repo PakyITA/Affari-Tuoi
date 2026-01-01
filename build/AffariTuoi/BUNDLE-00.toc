@@ -1,3 +1,0 @@
-([('AffariTuoi',
-   '/Users/pasquale/Desktop/Affari-Tuoi/dist/AffariTuoi',
-   'EXECUTABLE')],)
